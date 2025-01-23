@@ -16,7 +16,7 @@ Unofficial RPM package installer and patcher for Discord.
    cd discord-patch
    ```
 
-2. Run `./create-package.sh`.
+2. Run `./install-discord.sh`.
 3. Enter sudo password if requested.
 
 ## Features
